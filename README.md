@@ -36,4 +36,4 @@ Buka langsung file `index.html` di browser (bisa dengan double-click atau drag k
 ## Deployment
 
 Proyek sudah dideploy menggunakan Vercel dan bisa diakses melalui:
-🔗 [https://expatify-ecommerce-test.vercel.app/]
+🔗 [https://expatify-ecommerce-test-ab1l.vercel.app/]
