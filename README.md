@@ -19,13 +19,13 @@ Pada halaman ini saya membuat layout UI seperti tampilan e-commerce, yang terdir
 Jika belum mengclone repository ini, jalankan perintah berikut:
 
 ```bash
-git clone https://github.com/username/expatify-ecommerce-test.git
+git clone https://github.com/Chairania/expatify-test.git
 ```
 
 ### 2. Masuk ke Folder Proyek
 
 ```bash
-cd expatify-ecommerce-test
+cd expatify-test
 ```
 
 ### 3. Jalankan Secara Lokal
